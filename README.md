@@ -1,29 +1,3 @@
-# hello-world
+# vue-cli-multipage1
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vue-cli-multipage2.0改进版 [博客](https://www.cnblogs.com/AnnieShen/p/12035023.html) [github](https://github.com/AinneShen/vue-cli-multiPage2).
